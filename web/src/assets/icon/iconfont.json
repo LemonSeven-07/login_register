@@ -1,0 +1,51 @@
+{
+  "id": "2776595",
+  "name": "Serendipity",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6629890",
+      "name": "右 右",
+      "font_class": "youyou-",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "975382",
+      "name": "返回",
+      "font_class": "return",
+      "unicode": "e6ba",
+      "unicode_decimal": 59066
+    },
+    {
+      "icon_id": "4406944",
+      "name": "女",
+      "font_class": "nv",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "11372677",
+      "name": "男",
+      "font_class": "nan",
+      "unicode": "e8b3",
+      "unicode_decimal": 59571
+    },
+    {
+      "icon_id": "1613453",
+      "name": "邮箱",
+      "font_class": "youxiang",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "6028338",
+      "name": "案例",
+      "font_class": "anli",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    }
+  ]
+}
